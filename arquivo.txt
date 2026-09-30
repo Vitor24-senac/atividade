@@ -1,0 +1,25 @@
+RADIOLA DA QUEBRADA — exercício guiado de flexbox
+=================================================
+
+O que tem aqui:
+
+  index.html        a página pronta em marcação. NÃO precisa mexer.
+  css/estilo.css    aparência pronta. O LEIAUTE é você quem escreve,
+                    colando os blocos do roteiro NO FIM deste arquivo.
+  svg/              as imagens da página (capas, ícones, logo).
+
+Como começar:
+
+  1. Abra index.html no navegador. Vai estar tudo empilhado. É normal.
+  2. Abra css/estilo.css no editor e vá até o FIM do arquivo.
+  3. Siga o roteiro, passo por passo, colando cada bloco no fim.
+  4. A CADA passo: salve, recarregue o navegador e OLHE.
+     Se não mudou nada, pare e confira o seletor antes de seguir.
+
+Dois passos pioram a página de propósito (o 5 e o 11). Não é erro seu.
+
+Aperte a janela até uns 400px de vez em quando: metade do flexbox só
+aparece quando falta espaço.
+
+No fim do roteiro tem um DESAFIO sem resposta. Ele é para ser feito
+depois dos 17 passos, não antes.
